@@ -1,0 +1,17 @@
+# Assets Links
+# This file contains links to various assets (images, documents, tutorials, etc.) from the web or elsewhere.
+# Each entry has a name, URL, and optional description.
+
+links:
+  - name: "Financial data for AI4FCF"
+    url: "https://sites.google.com/view/ai4fcf/open-datasets"
+    description: "A collection of financial datasets for AI4FCF projects"
+
+ - name: "Dutch Government Data Portal"
+    url: "https://data.overheid.nl/"
+    description: "Open data from the Dutch government"
+
+ - name: "Kaggle Datasets"
+    url: "https://www.kaggle.com/datasets"
+    description: "Free to access datasets for machine learning and data science projects"
+
