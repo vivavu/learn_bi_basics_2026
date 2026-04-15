@@ -1,6 +1,14 @@
 # learn_bi_basics_2026
 ## 💡 Content
-Learning business intelligence basics in 2026 and dashboarding with Power BI
+Learning business intelligence basics in 2026 and dashboarding.
+
+The repo contains training materials for practicing the essentials of business intelligence.
+
+The [PowerPoint](contents\From Business Need to Data Insight.pptx) explains the essentials of BI.
+
+
+Each folder contains prompts or assets for role-playing
+
 1. Business Requirement
 2. Data modelling
 3. Visualisation
