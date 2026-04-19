@@ -1,20 +1,130 @@
-# Assets Links
-# This file contains links to various assets (images, documents, tutorials, etc.) from the web or elsewhere.
-# Each entry has a name, URL, and optional description.
+# Assets & Resources Links
+# This file contains links to external resources, reference materials, and tutorials.
+# 
+# INTERNAL DOCUMENTATION (start here if new)
+internal_guides:
+  - name: "Quick Start Guide"
+    path: "QUICK_START.md"
+    description: "Build your first dashboard in 60 minutes - start here if new"
+  - name: "Prerequisites & Setup"
+    path: "PREREQUISITES.md"
+    description: "Software, licensing, and environment configuration"
+  - name: "Reference Materials & Glossary"
+    path: "REFERENCE_MATERIALS.md"
+    description: "Quick glossary, decision matrices, and learning resources"
+  - name: "Implementation Guides"
+    path: "IMPLEMENTATION_GUIDES/"
+    description: "Detailed walkthroughs, DAX templates, Power Query recipes, troubleshooting"
+  - name: "BI Process Presentation"
+    path: "resources/From Business Need to Data Insight.pptx"
+    description: "Slide deck covering the BI process from business need to insight"
 
-links:
+# MICROSOFT LEARN - FOUNDATIONAL (Review if needed after Codecademy)
+microsoft_learn:
+  - name: "Power BI Getting Started"
+    url: "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/"
+    description: "Overview of Power BI Desktop and Service"
+    time: "30 min"
+    
+  - name: "Power BI Desktop Overview"
+    url: "https://learn.microsoft.com/en-us/training/modules/power-bi-desktop-overview/"
+    description: "Interface, features, and capabilities"
+    time: "20 min"
+
+  - name: "Model Data in Power BI"
+    url: "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/"
+    description: "Relationships, dimensions, fact tables, and star schema"
+    time: "40 min"
+
+# MICROSOFT LEARN - DAX & MEASURES (Critical for Phase 4)
+dax_learning:
+  - name: "DAX Fundamentals"
+    url: "https://learn.microsoft.com/en-us/training/modules/understand-dax-fundamentals/"
+    description: "Introduction to DAX language and syntax"
+    time: "30 min"
+    
+  - name: "Create Measures in DAX"
+    url: "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/"
+    description: "Build aggregations and calculations"
+    time: "35 min"
+    
+  - name: "DAX Function Reference"
+    url: "https://learn.microsoft.com/en-us/dax/dax-function-reference"
+    description: "Complete reference for all DAX functions"
+    type: "Reference"
+
+# MICROSOFT LEARN - POWER QUERY
+power_query_learning:
+  - name: "Power Query Editor Basics"
+    url: "https://learn.microsoft.com/en-us/training/modules/work-with-power-query-in-power-bi-desktop/"
+    description: "Data transformation and cleaning"
+    time: "35 min"
+    
+  - name: "Power Query M Reference"
+    url: "https://learn.microsoft.com/en-us/powerquery-m/"
+    description: "Complete M language reference"
+    type: "Reference"
+
+# MICROSOFT LEARN - VISUALIZATION
+visualization_learning:
+  - name: "Effective Visualizations"
+    url: "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/"
+    description: "Chart types, design principles, and best practices"
+    time: "40 min"
+    
+  - name: "Accessibility in Power BI"
+    url: "https://learn.microsoft.com/en-us/training/modules/accessibility-power-bi/"
+    description: "WCAG standards, color contrast, inclusive design"
+    time: "25 min"
+
+# MICROSOFT LEARN - ADVANCED
+advanced_learning:
+  - name: "Power BI Service Overview"
+    url: "https://learn.microsoft.com/en-us/training/modules/power-bi-service-overview/"
+    description: "Publishing, sharing, and collaboration"
+    time: "30 min"
+    
+  - name: "Performance Optimization"
+    url: "https://learn.microsoft.com/en-us/power-bi/guidance/performance-benchmarks"
+    description: "Best practices for dashboard performance"
+    type: "Guidance"
+    
+  - name: "Row-Level Security (RLS)"
+    url: "https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-row-level-security"
+    description: "Restrict data by user"
+    time: "20 min"
+
+# DATA SOURCES
+data_sources:
   - name: "Financial data for AI4FCF"
     url: "https://sites.google.com/view/ai4fcf/open-datasets"
-    description: "A collection of financial datasets for AI4FCF projects"
-  - name: "Dutch Government Data Portal"
-    url: "https://data.overheid.nl/"
-    description: "Open data from the Dutch government"
+    description: "Czech Financial Dataset (real financial data, 1993-1998) - used in this course"
+
   - name: "Kaggle Datasets"
     url: "https://www.kaggle.com/datasets"
-    description: "Free-to-access datasets for machine learning and data science projects"
+    description: "Free datasets for practice (alternative sources)"
+
+  - name: "Dutch Government Data Portal"
+    url: "https://data.overheid.nl/"
+    description: "Open government data (alternative source)"
+
+# OFFICIAL DOCUMENTATION
+official_docs:
   - name: "Power BI Documentation"
     url: "https://docs.microsoft.com/en-us/power-bi/"
-    description: "Official Microsoft documentation for Power BI"
-  - name: "Power BI Guided Learning"
-    url: "https://docs.microsoft.com/en-us/power-bi/guided-learning/"
-    description: "Interactive tutorials for learning Power BI"
+    description: "Official Microsoft documentation and support"
+    type: "Reference"
+    
+  - name: "Power BI Community Forum"
+    url: "https://community.powerbi.com/"
+    description: "Q&A community - post errors here"
+
+# TOOLS & UTILITIES (Optional)
+tools:
+  - name: "Power BI Desktop (Download)"
+    url: "https://www.microsoft.com/en-us/download/details.aspx?id=58494"
+    description: "Free Power BI Desktop download"
+    
+  - name: "SQL Server Management Studio (Optional)"
+    url: "https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"
+    description: "For querying SQL data sources (optional)"

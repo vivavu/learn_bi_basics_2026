@@ -5,7 +5,21 @@ Learning business intelligence basics in 2026 and dashboarding.
 
 This repo contains training materials for practicing the essentials of business intelligence.
 
-## 👷‍♂️ User Manual
+Keep in mind, this repository is built with a focus on essential BI learning in a short period. The contents are designed to help practitioners materialize their learning through a role-playing approach.
+
+## �️ Repository Navigation
+
+This repository is organized for easy navigation:
+
+- **[PREREQUISITES.md](PREREQUISITES.md)**: Software setup, licensing, and environment validation before starting.
+- **[QUICK_START.md](QUICK_START.md)**: Build your first dashboard in 60 minutes to validate your setup.
+- **[REFERENCE_MATERIALS.md](REFERENCE_MATERIALS.md)**: Glossary, decision matrices, and Microsoft Learn links for quick reference.
+- **[contents/](contents/)**: Role-playing prompts for BI phases (business requirements, data modeling, visualization, dashboarding).
+- **[IMPLEMENTATION_GUIDES/](IMPLEMENTATION_GUIDES/)**: Detailed Power BI walkthroughs, DAX templates, Power Query recipes, and troubleshooting.
+- **[resources/](resources/)**: Supporting assets like presentations.
+- **[assets.yaml](assets.yaml)**: Centralized links to external resources and Microsoft Learn guides.
+
+## �👷‍♂️ User Manual
 
 ### Step 1 : Preparation
 
@@ -24,7 +38,7 @@ In each subfolder under [contents](contents) contains prompts or assets for role
 
 ### Step 3: Check
 
-After practice use the [checklist](contents\bi_essentials_core_checklist.md) to verify if all essentials are covered to deliver a high confidence end product.
+After practice use the [checklist](contents/bi_essentials_core_checklist.md) to verify if all essentials are covered to deliver a high confidence end product.
 
 ### Step 4: Final Project
 
@@ -52,6 +66,7 @@ You are allowed to:
 
 #### 📩 Permissions
 If you would like to use any part of this material, please request permission.
+
 
 ---
 
