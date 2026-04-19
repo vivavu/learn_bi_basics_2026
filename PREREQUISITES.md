@@ -15,14 +15,13 @@ Before starting the course, ensure your environment is properly configured. This
 
 **ℹ️ Note:** Power BI Desktop is FREE. You only need a license to *publish* dashboards to the cloud (Power BI Service).
 
-### Microsoft Excel (Optional but Recommended)
+### Microsoft Excel (Optional) (Alternatief, Data Wrangler extension for vs code)
 - For preliminary data exploration and transformation
 - If unavailable, Power Query (built into Power BI) handles all transformations
 
 ### SQL Client (Optional)
 - If connecting to SQL Server data sources
-- Examples: SQL Server Management Studio (SSMS), Azure Data Studio
-- Not required for this course (we use CSV/Excel data)
+- Examples: SQL Server Management Studio (SSMS)
 
 ---
 
@@ -32,10 +31,9 @@ Before starting the course, ensure your environment is properly configured. This
 ✅ **FREE** - Build dashboards locally without any subscription
 
 ### Power BI Service (Publishing & Sharing)
-⚠️ **Requires License** - To publish dashboards to the cloud
-- **Pro License:** $10/month per user (team sharing)
-- **Premium License:** Enterprise-grade
-- **Desktop-Only Alternative:** Save .pbix file locally and share via email/OneDrive (recommended for learning)
+⚠️ **Requires License**: To publish dashboards to the cloud, team sharing, and enterprise features.
+
+💊 **Desktop-Only Alternative:** Save .pbix file locally and share via email/OneDrive (recommended for learning)
 
 **Recommendation for this course:** Use **Power BI Desktop only** (free). Publish to cloud later once you're familiar with the tool.
 
@@ -44,7 +42,7 @@ Before starting the course, ensure your environment is properly configured. This
 ## 📊 Data Access
 
 ### Sample Data (Included)
-This course uses the **Czech Financial Dataset (AI4FCF)**:
+The implementation example uses the **Czech Financial Dataset (AI4FCF)**:
 - **Source:** https://sites.google.com/view/ai4fcf/open-datasets
 - **Period:** 1993-1998
 - **Records:** ~1M transactions, 4,500 accounts, 5,369 clients
@@ -140,13 +138,13 @@ learn_bi_project/
 If any of these are unfamiliar, spend 30 minutes reviewing:
 
 1. **BI Fundamentals** (if not completed via Codecademy)
-   - Microsoft Learn: https://learn.microsoft.com/en-us/training/paths/bi-analyst/
+   - Microsoft Learn: https://learn.microsoft.com/en-us/training/courses/pl-300t00
 
 2. **Power BI Overview** (15 min)
    - Microsoft Learn: https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
 
 3. **DAX Basics** (15 min)
-   - Microsoft Learn: https://learn.microsoft.com/en-us/training/modules/understand-dax-fundamentals/
+   - Microsoft Learn: https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics
 
 ---
 

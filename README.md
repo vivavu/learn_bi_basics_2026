@@ -7,7 +7,7 @@ This repo contains training materials for practicing the essentials of business 
 
 Keep in mind, this repository is built with a focus on essential BI learning in a short period. The contents are designed to help practitioners materialize their learning through a role-playing approach.
 
-## �️ Repository Navigation
+## 📦 Repository Navigation
 
 This repository is organized for easy navigation:
 
@@ -19,7 +19,7 @@ This repository is organized for easy navigation:
 - **[resources/](resources/)**: Supporting assets like presentations.
 - **[assets.yaml](assets.yaml)**: Centralized links to external resources and Microsoft Learn guides.
 
-## �👷‍♂️ User Manual
+## 👷‍♂️ User Manual
 
 ### Step 1 : Preparation
 

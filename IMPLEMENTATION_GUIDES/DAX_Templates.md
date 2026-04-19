@@ -539,8 +539,6 @@ Filtered_Sum = CALCULATE(SUM([Column]), [Filter_Field] = "Value")
 ---
 
 ## 📚 Additional Resources
-
-- **Microsoft Learn - DAX:** https://learn.microsoft.com/en-us/training/modules/understand-dax-fundamentals/
 - **DAX Function Reference:** https://learn.microsoft.com/en-us/dax/dax-function-reference
 - **Power BI Formula Reference:** Built into Power BI (fx → Insert formula)
 
@@ -558,4 +556,4 @@ After writing each formula:
 
 ---
 
-**Questions? See [Troubleshooting.md](Troubleshooting.md) or review [Microsoft Learn - DAX](https://learn.microsoft.com/en-us/training/modules/understand-dax-fundamentals/)**
+**Questions? See [Troubleshooting.md](Troubleshooting.md)

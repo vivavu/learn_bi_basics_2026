@@ -508,7 +508,6 @@ After each transformation:
 ## 🔗 Resources
 
 - **Power Query M Reference:** https://learn.microsoft.com/en-us/powerquery-m/
-- **Power Query in Power BI:** https://learn.microsoft.com/en-us/training/modules/work-with-power-query-in-power-bi-desktop/
 - **Text Functions:** https://learn.microsoft.com/en-us/powerquery-m/text-functions
 
 ---

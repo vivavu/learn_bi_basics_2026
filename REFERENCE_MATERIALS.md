@@ -239,38 +239,34 @@ Use these when deciding where to do something or how to structure your dashboard
 ## 🔗 External Resources by Topic
 
 ### Foundational BI Concepts (Review if needed)
-- **Microsoft Learn - BI Fundamentals:** https://learn.microsoft.com/en-us/training/paths/bi-analyst/
+- **Microsoft Learn - BI Fundamentals (PL-300):** https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
 - **Codecademy - BI Fundamentals:** https://www.codecademy.com/learn/bi-fundamentals (already completed)
 
 ### Power BI Learning
 - **Getting Started:** https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
-- **Power BI Desktop Overview:** https://learn.microsoft.com/en-us/training/modules/power-bi-desktop-overview/
+- **Power BI Desktop Overview:** https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
 - **Model Data in Power BI:** https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/
 
 ### DAX & Measures
 - **DAX Fundamentals:** https://learn.microsoft.com/en-us/training/modules/understand-dax-fundamentals/
 - **Create Measures in DAX:** https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/
-- **DAX Function Reference:** https://learn.microsoft.com/en-us/dax/dax-function-reference
+- **DAX Function Reference:** https://learn.microsoft.com/en-us/dax/
 
 ### Power Query & Data Transformation
-- **Power Query Editor:** https://learn.microsoft.com/en-us/training/modules/work-with-power-query-in-power-bi-desktop/
+- **Power Query Editor:** https://learn.microsoft.com/en-us/power-query/power-query-ui
 - **Power Query M Reference:** https://learn.microsoft.com/en-us/powerquery-m/
 
 ### Visualization & Design
 - **Effective Visualization:** https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/
-- **Accessibility in Power BI:** https://learn.microsoft.com/en-us/training/modules/accessibility-power-bi/
+- **Accessibility in Power BI:** https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-overview
 
 ### Data Modeling
 - **Star Schema Basics:** https://learn.microsoft.com/en-us/power-bi/guidance/star-schema
 - **Relationships:** https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/
 
 ### Publishing & Collaboration
-- **Power BI Service:** https://learn.microsoft.com/en-us/training/modules/power-bi-service-overview/
-- **Sharing & Collaboration:** https://learn.microsoft.com/en-us/training/modules/power-bi-shared-workspaces/
-
-### Performance & Optimization
-- **Optimize Power BI Performance:** https://learn.microsoft.com/en-us/power-bi/guidance/performance-benchmarks
-- **DirectQuery Best Practices:** https://learn.microsoft.com/en-us/power-bi/guidance/directquery-guidance
+- **Power BI Service:** https://learn.microsoft.com/en-us/power-bi/fundamentals/service-get-started
+- **Sharing & Collaboration:** https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-upload-desktop-files
 
 ---
 
