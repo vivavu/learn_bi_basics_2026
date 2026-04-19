@@ -13,5 +13,4 @@ Based on the data model, design visualizations that follow best practices:
 5. **Accessibility:** Ensure designs are accessible (e.g., sufficient contrast, alt text for images).
 
 **Output Format:**
-Describe each visualization with mock descriptions or ASCII art if possible.</content>
-<parameter name="filePath">e:\github\learn_bi_basics_2026\contents\3_visualisation\visualization_design_prompt.md
+Describe each visualization with mock descriptions or ASCII art if possible.

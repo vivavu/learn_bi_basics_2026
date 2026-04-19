@@ -49,10 +49,9 @@ Business Intelligence (BI) is the process of turning raw data into actionable bu
 
 ## Tools Mentioned
 - Power BI for dashboarding
-- SQL for data manipulation
-- Excel for initial analysis
+- SQL (as example) for data manipulation
+- Excel (as example) for initial analysis
 - Various data sources
 
 ## Conclusion
-BI is iterative: insights lead to new questions, requiring refinement of the process. Practice with the prompts in this course to master each stage.</content>
-<parameter name="filePath">e:\github\learn_bi_basics_2026\contents\bi_process_overview.md
+BI is iterative: insights lead to new questions, requiring refinement of the process. Practice with the prompts in this course to master each stage.

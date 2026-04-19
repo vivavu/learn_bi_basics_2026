@@ -13,5 +13,4 @@ Design a dimensional model that supports the business requirements identified ea
 5. **Data Types & Keys:** Ensure proper data types and surrogate keys where needed.
 
 **Output Format:**
-Provide a diagram description or table schema for the model.</content>
-<parameter name="filePath">e:\github\learn_bi_basics_2026\contents\2_data_modelling\data_model_prompt.md
+Provide a diagram description or table schema for the model.

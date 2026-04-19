@@ -40,5 +40,4 @@ To practice, use the following sample scenario:
 4. Build the data model.
 5. Create measures (e.g., Total Sales = SUM(Sales[Amount]))
 6. Design the report page.
-7. Publish to Power BI Service.</content>
-<parameter name="filePath">e:\github\learn_bi_basics_2026\contents\4_dashboarding\dashboard_development_prompt.md
+7. Publish to Power BI Service.(Optional: requires Microsoft Fabric workspace)

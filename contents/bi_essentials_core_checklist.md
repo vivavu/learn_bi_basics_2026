@@ -25,8 +25,8 @@ In every BI tool, you are dealing with only two types of data.
 
 ---
 
-### 3. Effective Visualization: The "3-Second Rule"
-A dashboard is successful only if a stakeholder can understand the "health" of the business in 3 seconds.
+### 3. Effective Visualization: The "5-Second Rule"
+A dashboard is successful only if a stakeholder can understand the "health" of the business in 5 seconds.
 
 * **KPI Cards:** Use for single, vital numbers (e.g., **Total Sales: $1.2M**).
 * **Line Charts:** Use **only** for trends over time. Never use them to compare categories.
