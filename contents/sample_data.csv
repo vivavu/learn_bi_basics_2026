@@ -1,0 +1,11 @@
+Date,Region,Product,Category,Sales Amount,Quantity
+2023-01-01,North,Widget A,Electronics,1000,10
+2023-01-02,South,Widget B,Electronics,1500,15
+2023-01-03,East,Widget A,Electronics,1200,12
+2023-01-04,West,Widget C,Appliances,800,8
+2023-01-05,North,Widget B,Electronics,1100,11
+2023-01-06,South,Widget A,Electronics,1300,13
+2023-01-07,East,Widget C,Appliances,900,9
+2023-01-08,West,Widget A,Electronics,1400,14
+2023-01-09,North,Widget C,Appliances,700,7
+2023-01-10,South,Widget B,Electronics,1600,16

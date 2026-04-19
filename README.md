@@ -1,18 +1,34 @@
 # learn_bi_basics_2026
-## 💡 Content
+
+## 💡 General
 Learning business intelligence basics in 2026 and dashboarding.
 
-The repo contains training materials for practicing the essentials of business intelligence.
+This repo contains training materials for practicing the essentials of business intelligence.
 
-The [PowerPoint](contents\From Business Need to Data Insight.pptx) explains the essentials of BI.
+## 👷‍♂️ User Manual
 
+### Step 1 : Preparation
 
-Each folder contains prompts or assets for role-playing
+Read the [BI Process Overview](contents/bi_process_overview.md), this gives a brief overview of the BI process from start to end.
+
+Scan the [links](assets.yaml) for this information and links for this repo.
+
+### Step 2 : Practice
+
+In each subfolder under [contents](contents) contains prompts or assets for role-playing the involved expertise part of the process. The point of role-playing practice is to learn the process in an interactive approach with actual players. This gives opportunity for practice all the non-technical part of BI, and business management.
 
 1. Business Requirement
 2. Data modelling
 3. Visualisation
 4. Dashboarding
+
+### Step 3: Check
+
+After practice use the [checklist](contents\bi_essentials_core_checklist.md) to verify if all essentials are covered to deliver a high confidence end product.
+
+### Step 4: Final Project
+
+Apply what you've learned to create a complete Power BI dashboard. Use the prompts in each subfolder as guides, and refer to the [dashboard development prompt](contents/4_dashboarding/dashboard_development_prompt.md) for the final build.
 
 
 ## 📄 License
